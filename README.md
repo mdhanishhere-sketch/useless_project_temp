@@ -2,26 +2,26 @@
 
 
 
-# [Project Name] 🎯
+# [MONKEYCAPTCHA™] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Vinusingg & Sukusingg]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Safwana Fathima] - [Al Azhar college of engineering and technology]
+- Member 2: [Muhammed Dhanish] - [Al Azhar college of engineering and technology]
+
 
 ### Project Description
-[2-3 lines about what your project does]
+[Prove You’re Human. Regret It Later]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[monkey or human verification system]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[by asking series of questions that are both stupid and ridiculous]
 
 ## Technical Details
 ### Technologies/Components Used
